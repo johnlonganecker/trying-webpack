@@ -1,0 +1,21 @@
+{
+  "name": "asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --optimize-minimize"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^6.4.1",
+    "webpack": "^2.3.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
